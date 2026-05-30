@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "roman",
+      "name": "Roman Petrov",
+      "email": "roman.petrov@example.com",
+      "age": 28,
+      "city": "Moscow",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "username": "alex",
+      "name": "Alex Ivanov",
+      "email": "alex.ivanov@example.com",
+      "age": 17,
+      "city": "Moscow",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "username": "maria",
+      "name": "Maria Smirnova",
+      "email": "maria.smirnova@example.com",
+      "age": 16,
+      "city": "Moscow",
+      "isActive": false
+    },
+    {
+      "id": "4",
+      "username": "ivan",
+      "name": "Ivan Sokolov",
+      "email": "ivan.sokolov@example.com",
+      "age": 19,
+      "city": "Saint Petersburg",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "username": "anna",
+      "name": "Anna Volkova",
+      "email": "anna.volkova@example.com",
+      "age": 26,
+      "city": "Saint Petersburg",
+      "isActive": true
+    },
+    {
+      "id": "6",
+      "username": "sergey",
+      "name": "Sergey Morozov",
+      "email": "sergey.morozov@example.com",
+      "age": 30,
+      "city": "Sochi",
+      "isActive": true
+    },
+    {
+      "id": "7",
+      "username": "katya",
+      "name": "Katya Lebedeva",
+      "email": "katya.lebedeva@example.com",
+      "age": 16,
+      "city": "Sochi",
+      "isActive": false
+    },
+    {
+      "id": "8",
+      "username": "dmitry",
+      "name": "Dmitry Orlov",
+      "email": "dmitry.orlov@example.com",
+      "age": 27,
+      "city": "Kazan",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "username": "elena",
+      "name": "Elena Fedorova",
+      "email": "elena.fedorova@example.com",
+      "age": 17,
+      "city": "Novosibirsk",
+      "isActive": false
+    },
+    {
+      "id": "10",
+      "username": "maxim",
+      "name": "Maxim Kuznetsov",
+      "email": "maxim.kuznetsov@example.com",
+      "age": 25,
+      "city": "Krasnodar",
+      "isActive": true
+    }
+  ]
+}
